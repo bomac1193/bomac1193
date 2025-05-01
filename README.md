@@ -1,4 +1,4 @@
-# Hi, I'm Alabo! 👋
+# Hi, I'm Alabo!
 ## Audio AI Architect & Creative Systems Engineer
 
 Specializing in the convergence of Audio AI, Blockchain, and Interactive 3D Environments. Building the next generation of immersive audio experiences.
