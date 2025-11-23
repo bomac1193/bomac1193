@@ -1,74 +1,73 @@
-We Are Ubani — The Liminal Audio Design House
-Audio systems for games, fashion, galleries & immersive worlds
 
-We create sound architectures that transform the spaces they inhabit. From AAA games to runway shows, from contemporary art installations to high-end experiential technology — our work turns audio into a living, reactive presence.
+**We Are Ubani — Liminal Audio Design House**
 
-Clients come to us when they need sound that does more than decorate. They come when they need sound that responds, evolves, breathes, and defines identity.
+### **Sonic systems for the next 10–30 years of Games • Film • TV • Fashion • Experiential Worlds**
 
-⌘ Our Flagship System — Sonic Motion Engine
+Ubani builds **future-facing audio systems** — the kind that power:
 
-A real‑time audio–environment engine built for world‑class experiences.
+* AAA **game worlds**
+* High-end **fashion runways & campaigns**
+* **Film & TV universes** seeking new sonic identities
+* Experiential **art installations & galleries**
+* Emerging platforms coming in the next **10–30 years** (spatial web, AI-native media, reactive architecture)
 
-Designed for:
+We do not make “tracks.”
+We build **living sonic architectures** — systems that respond, mutate and breathe.
 
-Luxury fashion runways & brand experiences
+---
 
-Immersive gallery works & installation art
+## **⌘ Flagship System — *Sonic Motion Engine***
 
-High-end game studios building dynamic audio worlds
+### *Your most commercially valuable project, evolved directly from your existing repos*
 
-Tech companies creating interactive sonic identities
+**Based on your current GitHub work (Quantum Audio Forge + Unreal experiments), this is the system that positions you for £150K+ deals across games, film, fashion and installations.**
 
-What it does:
+**What it does:**
 
-Reacts instantly to music, movement, light & space
+* Real-time **audio→motion→environment** link
+* Generates evolving atmospheres for games, runways, films & galleries
+* UE-compatible for next-gen interactive worlds
+* Built from your existing tech, refined into a premium, industry-facing identity
 
-Generates evolving atmospheres & audio-driven visuals
+→ This system is derived from your **quantum-audio-forge** repo.
+We recommend renaming that repo to: **sonic-motion-engine** to reflect value + clarity.
 
-Integrates with Unreal Engine for large-scale experiences
+---
 
-Behaves like a living ecosystem — not a static tool
+## **⟡ What We Build**
 
-This is the project that best represents the type of work we deliver for £150,000+ clients: systems that anchor entire audiovisual worlds.
+We specialise in **systems**, not songs:
 
-→ Based on your existing repositories, this system is evolved from your quantum-audio-forge and UE audio experiments — we can rename the repo to sonic-motion-engine for alignment with the industries you want to attract.*
+* AI-driven audio engines for games & immersive media
+* Spatial & reactive sound for installations, galleries and XR
+* Runway-responsive audio for luxury fashion houses
+* Generative atmospheres for film, TV & performance
+* Blockchain-enabled sound identity & verification
 
-⟡ What We Build
+**Investment tiers:**
 
-We specialise in systems, not just sounds:
+* **£150K+** — Full sonic IP, R&D, system design
+* **£50K–£120K** — Interactive engines, UE integrations, AI audio modules
+* **£10K–£40K** — Installation modules, prototypes, sonic artefacts
 
-AI-driven audio engines for games & interactive worlds
+---
 
-Spatial sound for galleries, installations & XR
-
-Reactive runway sound design & audio-responsive staging
-
-Blockchain-verified audio asset ecosystems
-
-Generative sound fields that shift with narrative, choreography or user presence
-
-Investment tiers:
-
-£150K+ — Full sonic IP, system architecture, R&D
-
-£50K–£120K — Custom engines, Unreal integrations, audio AI modules
-
-£10K–£40K — Sonic artefacts, single-installation modules, prototypes
-
-⟁ The World We Shape
+## **⟁ The World We Shape**
 
 Imagine:
 
-A runway where the lighting breathes with the soundtrack
+* A fashion runway where fabric, light and audio move as one
+* A gallery where ambience shifts with viewer presence
+* A game world where weather, tension and emotion generate dynamically
+* A film or TV universe with an audio identity impossible to imitate
 
-A gallery where sound reshapes with every step
+We create the sonic frameworks that turn these ideas into reality.
 
-A game world where ambience responds like weather
+---
 
-A brand experience where audio becomes architecture
+## **📡 Contact**
 
-This is the world of Ubani — where sound is alive.
+* GitHub: [https://github.com/bomac1193](https://github.com/bomac1193)
+* Add Studio Site / Contact Portal
 
-📡 Contact
-
-GitHub: https://github.com/bomac1193
+> *“We create the systems that make worlds feel alive.”*
