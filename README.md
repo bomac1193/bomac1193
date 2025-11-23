@@ -1,131 +1,74 @@
-Hi, I’m Alabo — Architect of Sound, Systems & the Unseen
+We Are Ubani — The Liminal Audio Design House
+Audio systems for games, fashion, galleries & immersive worlds
 
-I build worlds you can hear before you see them.
+We create sound architectures that transform the spaces they inhabit. From AAA games to runway shows, from contemporary art installations to high-end experiential technology — our work turns audio into a living, reactive presence.
 
-My work lives at the intersection of Audio AI, interactive environments, and the quiet fever-dream of futuristic African noir.
-I’m chasing a single question:
+Clients come to us when they need sound that does more than decorate. They come when they need sound that responds, evolves, breathes, and defines identity.
 
-What does the future sound like when built by someone who grew up between Lagos, London, church choirs, underground raves, and glitching machines?
+⌘ Our Flagship System — Sonic Motion Engine
 
-Everything here is my attempt to answer that.
+A real‑time audio–environment engine built for world‑class experiences.
 
-✨ My Universe in Code & Sound
-🔊 Quantum Audio Forge
+Designed for:
 
-A neural sound-sculpting engine built for producers, researchers, and sonic experimenters.
+Luxury fashion runways & brand experiences
 
-This project began as a personal obsession:
-I wanted a machine that didn’t just process audio…
-I wanted one that understood it.
+Immersive gallery works & installation art
 
-Quantum Audio Forge is my experiment in giving sound a living, mutable intelligence:
+High-end game studios building dynamic audio worlds
 
-Neural synthesis + AI timbre transformation
+Tech companies creating interactive sonic identities
 
-Chain-of-thought audio mutation
+What it does:
 
-Blockchain-verified sound identity
+Reacts instantly to music, movement, light & space
 
-Real-time visualization for seeing sound as if it were matter
+Generates evolving atmospheres & audio-driven visuals
 
-→ Explore Quantum Audio Forge
+Integrates with Unreal Engine for large-scale experiences
 
-(Expect weird, beautiful, futuristic things.)
+Behaves like a living ecosystem — not a static tool
 
-🌌 Sonic Metaverse Framework (In Development)
+This is the project that best represents the type of work we deliver for £150,000+ clients: systems that anchor entire audiovisual worlds.
 
-A framework for the future of music worlds.
+→ Based on your existing repositories, this system is evolved from your quantum-audio-forge and UE audio experiments — we can rename the repo to sonic-motion-engine for alignment with the industries you want to attract.*
 
-Born from my love of Unreal’s cinematic worlds and my belief that audio should be more than a background layer — this system aims to:
+⟡ What We Build
 
-Generate procedural soundscapes using deep learning
+We specialise in systems, not just sounds:
 
-Anchor sound ownership and authenticity with blockchain
+AI-driven audio engines for games & interactive worlds
 
-Bring spatial audio into game worlds and virtual environments
+Spatial sound for galleries, installations & XR
 
-Allow artists to build living audio ecosystems, not just loops and stems
+Reactive runway sound design & audio-responsive staging
 
-This is where audio engineering becomes worldbuilding.
+Blockchain-verified audio asset ecosystems
 
-🖤 Why I Build
+Generative sound fields that shift with narrative, choreography or user presence
 
-I’m driven by a specific aesthetic and emotional space — a kind of African cyber-gothic futurism.
-Blade Runner rain. Lagos heat. Neon scriptures.
-Church harmonies warped through modular synths.
-Streetwear and mythology.
-AI that behaves like a spirit instead of a tool.
+Investment tiers:
 
-I build technology because I want sound to feel like a ritual again — immersive, alive, transformative.
+£150K+ — Full sonic IP, system architecture, R&D
 
-My work sits between:
+£50K–£120K — Custom engines, Unreal integrations, audio AI modules
 
-music producer
+£10K–£40K — Sonic artefacts, single-installation modules, prototypes
 
-creative technologist
+⟁ The World We Shape
 
-sound system designer
+Imagine:
 
-machine learning researcher
+A runway where the lighting breathes with the soundtrack
 
-world-builder
+A gallery where sound reshapes with every step
 
-Everything reinforces everything else.
+A game world where ambience responds like weather
 
-🎛 My Tools (But More Like My Instruments)
+A brand experience where audio becomes architecture
 
-I don’t “use tech.”
-I treat tech like an extension of my nervous system.
+This is the world of Ubani — where sound is alive.
 
-Audio AI & ML
-PyTorch • TensorFlow • DDSP • Whisper
-Neural timbre models • generative sound design
-
-Audio Systems & DSP
-JUCE • C++ DSP • Max/MSP • SuperCollider
-UE5 Audio • Wwise • FMOD • real-time signal processing
-
-Creative & Interactive Tools
-Unreal Engine • Blender • Web Audio
-Unity Audio • Ableton/Pro Tools
-
-Blockchain (for the future of sound identity)
-Solidity • Web3.py • on-chain audio verification
-
-🔥 What I’m Exploring Now
-
-Real-time neural synthesis for dynamic game environments
-
-Ritualistic audio in virtual worlds
-
-Blockchain as a new form of musical authorship
-
-Building instruments that respond like living organisms
-
-Making audio that feels spiritual, cinematic, and technologically impossible
-
-🎯 Where I’m Heading (2025)
-
-I want to work with studios, labs, and artists building the next era of interactive sound:
-
-Audio AI R&D
-
-Game audio architecture
-
-Metaverse/world audio systems
-
-Creative technology innovation
-
-Future-of-music research
-
-If it involves shaping the future of sound — I'm interested.
-
-🌐 Connect With Me
+📡 Contact
 
 GitHub: https://github.com/bomac1193
-
-LinkedIn: (Add your link)
-
-Portfolio / Soundworld: (Add link when ready)
-
-“I build audio systems that behave like spirits — alive, intelligent, and evolving.”
