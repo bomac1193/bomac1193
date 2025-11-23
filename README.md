@@ -1,106 +1,131 @@
-# Hi, I'm Alabo!
-## Audio AI Architect & Creative Systems Engineer
+Hi, I’m Alabo — Architect of Sound, Systems & the Unseen
 
-Specializing in the convergence of Audio AI, Blockchain, and Interactive 3D Environments. Building the next generation of immersive audio experiences.
+I build worlds you can hear before you see them.
 
-> *Specialist roles in Audio AI/ML and Creative Technology (£100K-£180K+ in London/Remote)*
+My work lives at the intersection of Audio AI, interactive environments, and the quiet fever-dream of futuristic African noir.
+I’m chasing a single question:
 
-## 🎵 Signature Projects
+What does the future sound like when built by someone who grew up between Lagos, London, church choirs, underground raves, and glitching machines?
 
-- **Quantum Audio Forge** - Neural Audio Processing System
-  - AI-powered sound synthesis and transformation
-  - Blockchain-based audio asset management
-  - Real-time audio visualization and processing
-  - [View Project](https://github.com/bomac1193/quantum-audio-forge)
+Everything here is my attempt to answer that.
 
-- **[In Development] Sonic Metaverse Framework**
-  - Procedural audio generation using deep learning
-  - Blockchain-verified audio NFT system
-  - Spatial audio for virtual environments
-  - Integration with Unreal Engine 5
+✨ My Universe in Code & Sound
+🔊 Quantum Audio Forge
 
-## 🔮 Core Specializations
+A neural sound-sculpting engine built for producers, researchers, and sonic experimenters.
 
-### 🤖 Audio AI & Machine Learning *(£120K-£180K)*
-- Neural Audio Synthesis
-- Music Information Retrieval (MIR)
-- Deep Learning for Audio Processing
-- Generative Sound Design
-- Audio Feature Extraction & Analysis
+This project began as a personal obsession:
+I wanted a machine that didn’t just process audio…
+I wanted one that understood it.
 
-### 🎮 Interactive Audio & 3D *(£80K-£150K)*
-- Unreal Engine 5 Audio Systems
-- Procedural Audio Generation
-- Spatial Audio for VR/AR
-- Real-time Audio Processing
-- Audio Middleware Integration
+Quantum Audio Forge is my experiment in giving sound a living, mutable intelligence:
 
-### 🔗 Audio Blockchain Technology *(£90K-£160K)*
-- Audio NFT Systems
-- Decentralized Audio Distribution
-- Smart Contracts for Music Rights
-- Audio Asset Verification
-- Tokenized Sound Ecosystems
+Neural synthesis + AI timbre transformation
 
-## 💻 Specialized Tech Stack
+Chain-of-thought audio mutation
 
-### Audio Development
-- Python (librosa, pytorch_audio, soundfile)
-- C++ Audio DSP
-- JUCE Framework
-- Web Audio API
-- SuperCollider | Max/MSP
+Blockchain-verified sound identity
 
-### Creative Tools
-- Unreal Engine 5 (Audio Systems)
-- Wwise | FMOD
-- Blender (Sound Visualization)
-- Unity Audio
-- DAWs (Ableton, Pro Tools)
+Real-time visualization for seeing sound as if it were matter
 
-### AI/Blockchain Stack
-- PyTorch | TensorFlow (Audio Models)
-- Web3.py | Solidity
-- OpenAI Whisper
-- DDSP (Differentiable Digital Signal Processing)
-- Audio MLOps
+→ Explore Quantum Audio Forge
 
-## 🌱 Current Research Focus
+(Expect weird, beautiful, futuristic things.)
 
-- Neural audio synthesis for game environments
-- Blockchain-based audio rights management
-- Real-time AI audio processing systems
-- Spatial audio for virtual worlds
-- Audio NFT marketplaces and platforms
+🌌 Sonic Metaverse Framework (In Development)
 
-## 🎯 Professional Direction (2024-2025)
+A framework for the future of music worlds.
 
-- Lead Audio AI Research & Development
-- Game Audio Systems Architecture
-- Audio Blockchain Platform Development
-- Spatial Audio for Metaverse Applications
-- Creative Technology Consulting
+Born from my love of Unreal’s cinematic worlds and my belief that audio should be more than a background layer — this system aims to:
 
-## 🎓 Specialized Knowledge Areas
+Generate procedural soundscapes using deep learning
 
-- Audio Signal Processing
-- Music Information Retrieval
-- Game Audio Architecture
-- Audio Smart Contracts
-- Spatial Sound Design
+Anchor sound ownership and authenticity with blockchain
 
-## 📫 Professional Network
+Bring spatial audio into game worlds and virtual environments
 
-- [GitHub](https://github.com/bomac1193)
-- Add your LinkedIn profile
-- Add your professional social media
+Allow artists to build living audio ecosystems, not just loops and stems
 
----
+This is where audio engineering becomes worldbuilding.
 
-*"Creating the future of interactive audio through AI, blockchain, and immersive technologies."*
+🖤 Why I Build
 
-<!--
-Specialist Keywords:
-#AudioAI #GameAudio #AudioNFT #SpatialAudio #AudioML #CreativeTech #AudioBlockchain 
-#UnrealAudio #AudioArchitect #ImmersiveAudio #AudioEngineering #GenerativeAudio
--->
+I’m driven by a specific aesthetic and emotional space — a kind of African cyber-gothic futurism.
+Blade Runner rain. Lagos heat. Neon scriptures.
+Church harmonies warped through modular synths.
+Streetwear and mythology.
+AI that behaves like a spirit instead of a tool.
+
+I build technology because I want sound to feel like a ritual again — immersive, alive, transformative.
+
+My work sits between:
+
+music producer
+
+creative technologist
+
+sound system designer
+
+machine learning researcher
+
+world-builder
+
+Everything reinforces everything else.
+
+🎛 My Tools (But More Like My Instruments)
+
+I don’t “use tech.”
+I treat tech like an extension of my nervous system.
+
+Audio AI & ML
+PyTorch • TensorFlow • DDSP • Whisper
+Neural timbre models • generative sound design
+
+Audio Systems & DSP
+JUCE • C++ DSP • Max/MSP • SuperCollider
+UE5 Audio • Wwise • FMOD • real-time signal processing
+
+Creative & Interactive Tools
+Unreal Engine • Blender • Web Audio
+Unity Audio • Ableton/Pro Tools
+
+Blockchain (for the future of sound identity)
+Solidity • Web3.py • on-chain audio verification
+
+🔥 What I’m Exploring Now
+
+Real-time neural synthesis for dynamic game environments
+
+Ritualistic audio in virtual worlds
+
+Blockchain as a new form of musical authorship
+
+Building instruments that respond like living organisms
+
+Making audio that feels spiritual, cinematic, and technologically impossible
+
+🎯 Where I’m Heading (2025)
+
+I want to work with studios, labs, and artists building the next era of interactive sound:
+
+Audio AI R&D
+
+Game audio architecture
+
+Metaverse/world audio systems
+
+Creative technology innovation
+
+Future-of-music research
+
+If it involves shaping the future of sound — I'm interested.
+
+🌐 Connect With Me
+
+GitHub: https://github.com/bomac1193
+
+LinkedIn: (Add your link)
+
+Portfolio / Soundworld: (Add link when ready)
+
+“I build audio systems that behave like spirits — alive, intelligent, and evolving.”
